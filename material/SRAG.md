@@ -18,4 +18,4 @@ https://opendatasus.saude.gov.br/dataset/srag-2021-a-2024
 
 1. Qual foi o número total de notificações de SRAG no estado do Rio de Janeiro durante o período analisado?
 2. Quais cidades do RJ tiveram o maior número de casos de SRAG?
-3. Existe alguma relação entre a idade dos pacientes e a gravidade dos casos de SRAG?
+3. Quais faixas etárias apresentam maior número de notificações de SRAG no Rio de Janeiro?
